@@ -1,6 +1,6 @@
 # Probabilistic Artificial Intelligence (PAI) Assignments
 
-This repository showcases our implementations for the coding assignments of the Probabilistic Artificial Intelligence course, Autumn Semester 2023. 
+This repository showcases our implementations for the coding assignments of the Probabilistic Artificial Intelligence course, Autumn Semester 2023 at ETH Zürich. 
 
 ## Assignments Overview
 
